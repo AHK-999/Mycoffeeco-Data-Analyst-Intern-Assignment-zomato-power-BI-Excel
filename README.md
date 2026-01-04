@@ -139,11 +139,4 @@ Power BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNTBmMzBjZDQtYjY1Ni00O
 ## 👤 Author
 
 **Hemanth Kumar**
-Aspiring Data Analyst | Business & Growth Analytics
-
-
-* Add a **short disclaimer version** (if company is sensitive)
-* Help you write a **LinkedIn post tagging MyCoffeeCo**
-* Convert this into **resume project bullet points**
-
-Just tell me 👍
+Aspiring Data Analyst | Business, Data & Growth Analytics
